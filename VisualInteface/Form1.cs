@@ -18,7 +18,7 @@ namespace VisualInteface
         }
 
 
-        private void checkedListBox1_ItemCheck(object sender, ItemCheckEventArgs e) //перезаписывает галочку  
+        private void checkedListBox1_ItemCheck(object sender, ItemCheckEventArgs e) //перезаписывает галочку
         {
             for (int i = 0; i < ListCiphers.Items.Count; i++)
             {
