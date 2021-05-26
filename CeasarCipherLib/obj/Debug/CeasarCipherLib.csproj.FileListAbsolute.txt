@@ -1,0 +1,12 @@
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\CeasarCipherLib\bin\Debug\CeasarCipherLib.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\CeasarCipherLib\bin\Debug\CeasarCipherLib.pdb
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.csprojAssemblyReference.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.csproj.CoreCompileInputs.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.pdb
+d:\Лёха\Учёба\4 сем\ТИ\1\Transposition and Substitution Ciphers\CeasarCipherLib\bin\Debug\CeasarCipherLib.dll
+d:\Лёха\Учёба\4 сем\ТИ\1\Transposition and Substitution Ciphers\CeasarCipherLib\bin\Debug\CeasarCipherLib.pdb
+d:\Лёха\Учёба\4 сем\ТИ\1\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.csprojAssemblyReference.cache
+d:\Лёха\Учёба\4 сем\ТИ\1\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.csproj.CoreCompileInputs.cache
+d:\Лёха\Учёба\4 сем\ТИ\1\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.dll
+d:\Лёха\Учёба\4 сем\ТИ\1\Transposition and Substitution Ciphers\CeasarCipherLib\obj\Debug\CeasarCipherLib.pdb

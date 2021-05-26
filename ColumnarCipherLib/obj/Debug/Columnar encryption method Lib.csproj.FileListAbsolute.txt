@@ -1,0 +1,6 @@
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\Columnar encryption method Lib\bin\Debug\Columnar_encryption_method_Lib.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\Columnar encryption method Lib\bin\Debug\Columnar_encryption_method_Lib.pdb
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\Columnar encryption method Lib\obj\Debug\Columnar encryption method Lib.csprojAssemblyReference.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\Columnar encryption method Lib\obj\Debug\Columnar encryption method Lib.csproj.CoreCompileInputs.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\Columnar encryption method Lib\obj\Debug\Columnar_encryption_method_Lib.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\Columnar encryption method Lib\obj\Debug\Columnar_encryption_method_Lib.pdb

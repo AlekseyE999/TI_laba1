@@ -1,0 +1,6 @@
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\DataGrid\bin\Debug\DataGrid.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\DataGrid\obj\Debug\DataGrid.csprojAssemblyReference.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\DataGrid\obj\Debug\DataGrid.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\DataGrid\obj\Debug\DataGrid.pdb

@@ -1,0 +1,6 @@
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\TranspositionSubstitutionCiphersLib\bin\Debug\TranspositionSubstitutionCiphersLib.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\TranspositionSubstitutionCiphersLib\bin\Debug\TranspositionSubstitutionCiphersLib.pdb
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\TranspositionSubstitutionCiphersLib\obj\Debug\TranspositionSubstitutionCiphersLib.csprojAssemblyReference.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\TranspositionSubstitutionCiphersLib\obj\Debug\TranspositionSubstitutionCiphersLib.csproj.CoreCompileInputs.cache
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\TranspositionSubstitutionCiphersLib\obj\Debug\TranspositionSubstitutionCiphersLib.dll
+C:\Users\lehan\BSUIR\4 sem\ТИ\lab\lab1\951004-it-1-NeAlex9\Transposition and Substitution Ciphers\TranspositionSubstitutionCiphersLib\obj\Debug\TranspositionSubstitutionCiphersLib.pdb
